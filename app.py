@@ -8,7 +8,7 @@ import shutil
 # constants
 IMAGE_NAME = "uploaded.png"
 MODEL_NAME = "best.pt"
-IMAGE_ADDRESS = "https://img.freepik.com/premium-photo/cannabis-cultivation-modern-glasshouse-blurred-background-professional-long-wide-indoor-hemp-plantation-modern-industrial-large-hall-ai-generated_585735-6414.jpg"
+IMAGE_ADDRESS = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.farmprogress.com%2Fsoybean%2Fmanaging-weed-pressure-in-variable-weather&psig=AOvVaw3_NXs3dup1BFxXGrhTQi2k&ust=1739413217432000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICZ4quJvYsDFQAAAAAdAAAAABAE"
 PRED_IMAGE_PATH = "runs/segment/predict/uploaded.png"
 DIRECTORY = "runs/segment/predict"
 PRED_MOVE_NAME = "pred_image.png"
