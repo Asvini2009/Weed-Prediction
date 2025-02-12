@@ -8,7 +8,7 @@ import shutil
 # constants
 IMAGE_NAME = "uploaded.png"
 MODEL_NAME = "best.pt"
-IMAGE_ADDRESS = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.farmprogress.com%2Fsoybean%2Fmanaging-weed-pressure-in-variable-weather&psig=AOvVaw3_NXs3dup1BFxXGrhTQi2k&ust=1739413217432000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICZ4quJvYsDFQAAAAAdAAAAABAE"
+IMAGE_ADDRESS = "https://eu-images.contentstack.com/v3/assets/bltdd43779342bd9107/blt74d3aba378392a49/65d852fabf8012040a09d5f5/CAAG4SOYB060_Native_Tractor-Soybeans_1920x1080_Static_200K_CPN-2079.jpg?width=1280&auto=webp&quality=95&format=jpg&disable=upscale"
 PRED_IMAGE_PATH = "runs/segment/predict/uploaded.png"
 DIRECTORY = "runs/segment/predict"
 PRED_MOVE_NAME = "pred_image.png"
